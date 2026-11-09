@@ -33,7 +33,7 @@ To use the AI ​​feature with ZeroStep, you must create the `zerostep.config.
         <ul>
             <li>Elements: Mapping the elements of each screen</li>
             <li>Fixtures: Data configuration files</li>
-            <li>Pages: Logic used to perform actions in tests</li>
+            <li>Pages: Logic used to perform actions in tests.</li>
         </ul>
     </li>
 </ul>
